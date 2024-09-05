@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://lnbits.nl/sitemap.xml
+Sitemap: zola-lnbits-nl.pages.dev/sitemap.xml
