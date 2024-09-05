@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "zola-lnbits-nl.pages.dev"
+base_url = "https://zola-lnbits-nl.pages.dev"
 theme = "hermit_zola"
 
 # Whether to automatically compile all Sass files in the sass directory
